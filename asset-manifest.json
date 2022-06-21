@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/OST64.github.io/static/css/main.5f2ce89a.css",
-    "main.js": "/OST64.github.io/static/js/main.de542b5a.js",
-    "static/js/662.ed18ad76.chunk.js": "/OST64.github.io/static/js/662.ed18ad76.chunk.js",
-    "static/media/Nimpize.PNG": "/OST64.github.io/static/media/Nimpize.dc3287ab32d7a55d66a5.PNG",
-    "static/media/Sunset.png": "/OST64.github.io/static/media/Sunset.3af08376fed798de4d6b.png",
-    "index.html": "/OST64.github.io/index.html",
-    "main.5f2ce89a.css.map": "/OST64.github.io/static/css/main.5f2ce89a.css.map",
-    "main.de542b5a.js.map": "/OST64.github.io/static/js/main.de542b5a.js.map",
-    "662.ed18ad76.chunk.js.map": "/OST64.github.io/static/js/662.ed18ad76.chunk.js.map"
+    "main.css": "/Constellation64.github.io/static/css/main.2f0c252d.css",
+    "main.js": "/Constellation64.github.io/static/js/main.6b2d905a.js",
+    "static/js/662.ed18ad76.chunk.js": "/Constellation64.github.io/static/js/662.ed18ad76.chunk.js",
+    "static/media/Nimpize.PNG": "/Constellation64.github.io/static/media/Nimpize.dc3287ab32d7a55d66a5.PNG",
+    "static/media/Sunset.png": "/Constellation64.github.io/static/media/Sunset.3af08376fed798de4d6b.png",
+    "index.html": "/Constellation64.github.io/index.html",
+    "main.2f0c252d.css.map": "/Constellation64.github.io/static/css/main.2f0c252d.css.map",
+    "main.6b2d905a.js.map": "/Constellation64.github.io/static/js/main.6b2d905a.js.map",
+    "662.ed18ad76.chunk.js.map": "/Constellation64.github.io/static/js/662.ed18ad76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f2ce89a.css",
-    "static/js/main.de542b5a.js"
+    "static/css/main.2f0c252d.css",
+    "static/js/main.6b2d905a.js"
   ]
 }
