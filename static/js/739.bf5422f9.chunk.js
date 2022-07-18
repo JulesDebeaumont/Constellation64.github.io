@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcv=self.webpackChunkcv||[]).push([[739],{739:function(a,c,e){e.r(c);var s=e(184);c.default=function(a){var c=a.path,e=a.alts;return(0,s.jsx)(s.Fragment,{children:(0,s.jsx)("div",{className:"article-image",children:(0,s.jsx)("img",{src:"../imgFolio/".concat(c),alt:e})})})}}}]);
+//# sourceMappingURL=739.bf5422f9.chunk.js.map
