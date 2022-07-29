@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Constellation64.github.io/static/css/main.98afb684.css",
-    "main.js": "/Constellation64.github.io/static/js/main.116ad5f5.js",
+    "main.css": "/Constellation64.github.io/static/css/main.50da87c8.css",
+    "main.js": "/Constellation64.github.io/static/js/main.f62f74a3.js",
     "static/js/662.13d711a5.chunk.js": "/Constellation64.github.io/static/js/662.13d711a5.chunk.js",
     "static/js/75.bcd2fd1c.chunk.js": "/Constellation64.github.io/static/js/75.bcd2fd1c.chunk.js",
     "static/js/982.1a53fac5.chunk.js": "/Constellation64.github.io/static/js/982.1a53fac5.chunk.js",
@@ -37,8 +37,8 @@
     "static/media/Nimpize.PNG": "/Constellation64.github.io/static/media/Nimpize.305167e62d4fcf2c7219.PNG",
     "static/media/Sunset.png": "/Constellation64.github.io/static/media/Sunset.94ef802f25e04305c54a.png",
     "index.html": "/Constellation64.github.io/index.html",
-    "main.98afb684.css.map": "/Constellation64.github.io/static/css/main.98afb684.css.map",
-    "main.116ad5f5.js.map": "/Constellation64.github.io/static/js/main.116ad5f5.js.map",
+    "main.50da87c8.css.map": "/Constellation64.github.io/static/css/main.50da87c8.css.map",
+    "main.f62f74a3.js.map": "/Constellation64.github.io/static/js/main.f62f74a3.js.map",
     "662.13d711a5.chunk.js.map": "/Constellation64.github.io/static/js/662.13d711a5.chunk.js.map",
     "75.bcd2fd1c.chunk.js.map": "/Constellation64.github.io/static/js/75.bcd2fd1c.chunk.js.map",
     "982.1a53fac5.chunk.js.map": "/Constellation64.github.io/static/js/982.1a53fac5.chunk.js.map",
@@ -73,7 +73,7 @@
     "817.badadb75.chunk.js.map": "/Constellation64.github.io/static/js/817.badadb75.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98afb684.css",
-    "static/js/main.116ad5f5.js"
+    "static/css/main.50da87c8.css",
+    "static/js/main.f62f74a3.js"
   ]
 }
